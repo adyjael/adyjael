@@ -8,4 +8,3 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adyjael&layout=compact)](https://github.com/USERNAME/github-readme-stats)
-![Snake animation](https://github.com/adyjael/adyjael/blob/output/github-contribution-grid-snake.svg)
