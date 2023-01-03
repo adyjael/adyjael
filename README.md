@@ -1,9 +1,9 @@
 ## Olá eu sou Adyjael neto
- <div>
-  <a href="https://github.com/adyjael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyjael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyjael&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<!--<div>
+  //<a href="https://github.com/adyjael">
+  //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyjael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  //<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyjael&layout=compact&langs_count=16&theme=dracula"/>
+</div>-->
 
 ## Tecnologias
 <div style="display: inline_block"><br>
